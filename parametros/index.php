@@ -111,23 +111,7 @@ $skin='green';
 	<li><a href="#">Parámetros</a></li>
 </ol>
 
-<h2>Parámetros :: 
-
-<div class="btn-group pull-righ"> 
-	<button type="button" class="btn btn-blue dropdown-toggle" data-toggle="dropdown" aria-expanded="true">
-Sucursales y cajas <span class="caret"></span> </button> 
-
-<ul class="dropdown-menu dropdown-blue" role="menu"> 
-	<li><a href="sucursales.php">Sucursales</a> </li> 
-	
-	</li> <li class="divider"></li> 
-	<li><a href="cajas.php">Cajas</a> </li> 
-</ul> 
-</div>
-
-	
-	</a>
-</h2>
+<h2>Parámetros</h2>
 <br />
 
 <?php include("../includes/alerts.php");?>
