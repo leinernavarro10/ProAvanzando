@@ -1,0 +1,22 @@
+
+/* general */
+.clear {
+	clear: both;
+}
+
+/* Custom node styling */
+.jOrgChart .node {
+	font-size 			: 14px;
+	background-color 	: #d5e6ff;
+	border-radius		: 8px;
+	border 				: 1px solid #484848;
+	color 				: #F38630;
+	-moz-border-radius 	: 8px;
+	overflow: hidden;
+}
+	.node p{
+		font-family 	: tahoma;
+		font-size 		: 10px;
+		line-height 	: 11px;
+		padding 		: 2px;
+	}

@@ -1,0 +1,38 @@
+ body {
+      margin: 0px;
+      padding: 0px;
+      overflow: hidden;
+    }   
+
+    .tr{
+        background: #C5C5C5;
+        color: #000000;
+    } 
+    .cabe4{width: 350px;text-align: center;color: #780000;font-weight: 600;font-size: 25px;vertical-align: bottom; }
+
+    .pequeno2{
+       display: none;
+    }
+
+
+
+@media(max-width : 794px){
+    .esconder2{
+        display: none;
+    }
+    .pequeno2{
+          display: initial;
+    }
+    .grande{
+          display: none;
+    }
+    .col-md-9{
+      margin: 0;
+      padding: 0
+    }
+    .panel-body{
+      padding: 0px;
+    }
+}
+
+    
